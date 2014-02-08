@@ -1,0 +1,2 @@
+[27-Jun-2013 12:26:01 Europe/Berlin] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/crniplus/public_html/twitter/twitteroauth-master/index.php on line 10
+[27-Jun-2013 12:26:01 Europe/Berlin] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crniplus/public_html/twitter/twitteroauth-master/index.php on line 10
